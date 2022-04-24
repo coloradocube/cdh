@@ -437,7 +437,7 @@
     "last_paths": {
       "gencad": "CDH.cad",
       "idf": "",
-      "netlist": "",
+      "netlist": "CDH.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
